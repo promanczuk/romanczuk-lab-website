@@ -2,13 +2,13 @@
 title: promanczuk
 subtitle: 
 description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
-footer: images/background.jpg
+header: images/schwarm_romanczuk.png
+footer: images/schwarm_romanczuk.png
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@promanczuk.com
+  email: pawel.romanczuk@hu-berlin.de
   orcid: 0000-0001-8713-9213
   google-scholar: ETJoidYAAAAJ
   github: promanczuk
