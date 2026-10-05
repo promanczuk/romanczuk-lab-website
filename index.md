@@ -1,9 +1,9 @@
 ---
 ---
 
-# promanczuk's Website
+# Romanczuk Lab - Collective Information Processing
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the pages of the research group “Collective Information Processing” at the Institute for Theoretical Biology, Department of Biology, Humboldt Universität zu Berlin, associated with the Bernstein Center for Computational Neuroscience Berlin and the excellence cluster Science of Intelligence. 
 
 {% include section.html %}
 
