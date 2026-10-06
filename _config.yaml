@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: promanczuk
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Collective Information Processing
+subtitle: Romanczuk Lab
+description: Welcome to the pages of the research group “Collective Information Processing” at the Institute for Theoretical Biology, Department of Biology, Humboldt Universität zu Berlin, associated with the Bernstein Center for Computational Neuroscience Berlin and the excellence cluster Science of Intelligence.
 header: images/schwarm_romanczuk.png
 footer: images/schwarm_romanczuk.png
 proofer: false
@@ -9,11 +9,11 @@ proofer: false
 # site social media and other links
 links:
   email: pawel.romanczuk@hu-berlin.de
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  orcid: 0000-0002-4733-998X
+  google-scholar: CKoH18sAAAAJ
   github: promanczuk
-  twitter: promanczuk
-  youtube: promanczuk
+  #twitter: promanczuk
+  #youtube: promanczuk
 
 ### jekyll settings
 
