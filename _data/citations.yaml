@@ -1,240 +1,39 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1007/978-3-032-39953-3_21
+  title: "From Optimal Policies to\_Individual Differences: Rethinking Reinforcement\
+    \ Learning for\_Biology"
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
+  - Patrick Govoni
+  - Palina Bartashevich
+  - "Cl\xE9mence Bergerot"
+  - Valerii Chirkov
+  - Valentin Lecheval
+  - Pawel Romanczuk
+  publisher: Lecture Notes in Computer Science
+  date: '2026-10-01'
+  link: https://doi.org/hcmmrh
+  orcid: 0000-0002-4733-998X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.64898/2026.09.21.752541
+  title: "Tracking human foragers and their prey reveals adaptive predator\u2013prey\
+    \ dynamics"
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - "F\xE9licie Dhellemmes"
+  - Alexander Schakowski
+  - Valerii Chirkov
+  - Marwa M. Kavelaars
+  - Fleur F. A. Korzilius
+  - Dominik Deffner
+  - Pawel Romanczuk
+  - Raine Kortet
+  - Pyry Pihlasvaara
+  - Ralf H.J.M. Kurvers
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
-  authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2026-09-25'
+  link: https://doi.org/hcmmrj
+  orcid: 0000-0002-4733-998X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41467-026-77762-z
@@ -248,8 +47,23 @@
   publisher: Nature Communications
   date: '2026-09-23'
   link: https://doi.org/hcmmrf
+  orcid: 0000-0002-4733-998X
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1098/rsos.260606
+  title: Social information quality and environmental volatility shape collective
+    foraging behaviour
+  authors:
+  - Valerii Chirkov
+  - Ralf H. J. M. Kurvers
+  - Dominik Deffner
+  - Pawel Romanczuk
+  publisher: Royal Society Open Science
+  date: '2026-09-02'
+  link: https://doi.org/hcmmrk
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1098/rspb.2026.0566
   title: Strategic choices of attack location allow predators to counter a collective
     prey defence
@@ -268,6 +82,7 @@
   publisher: 'Proceedings of the Royal Society B: Biological Sciences'
   date: '2026-05-13'
   link: https://doi.org/hcmmrg
+  orcid: 0000-0002-4733-998X
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rsif.2025.0582
@@ -278,5 +93,926 @@
   publisher: Journal of the Royal Society Interface
   date: '2026-01-28'
   link: https://doi.org/hbnbx7
+  orcid: 0000-0002-4733-998X
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.64898/2025.12.22.696014
+  title: Deterministic dynamics of distributional multi-agent reinforcement learning
+  authors:
+  - "Cl\xE9mence Bergerot"
+  - Pawel Romanczuk
+  - Wolfram Barfuss
+  publisher: openRxiv
+  date: '2025-12-24'
+  link: https://doi.org/hcmmrm
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.11.14.688412
+  title: Social Information Quality and Environmental Volatility Shape Collective
+    Foraging Behavior
+  authors:
+  - Valerii Chirkov
+  - Ralf H.J.M. Kurvers
+  - Dominik Deffner
+  - Pawel Romanczuk
+  publisher: openRxiv
+  date: '2025-11-14'
+  link: https://doi.org/hcmmrn
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/s25175412
+  title: 'LARS: A Light-Augmented Reality System for Collective Robotic Interaction'
+  authors:
+  - Mohsen Raoufi
+  - Pawel Romanczuk
+  - Heiko Hamann
+  publisher: Sensors
+  date: '2025-09-02'
+  link: https://doi.org/hcmmrp
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.adt8600
+  title: Better and faster decisions by larger fish shoals in the wild
+  authors:
+  - Korbinian Pacher
+  - David Bierbach
+  - Yunus Sevinchan
+  - Carla Vollmoeller
+  - Alejandro Juarez-Lopez
+  - "Jes\xFAs Emmanuel Jim\xE9nez-Jim\xE9nez"
+  - Stefan Krause
+  - Max Wolf
+  - Pawel Romanczuk
+  - "Lenin Arias-Rodr\xEDguez"
+  - Jens Krause
+  publisher: Science Advances
+  date: '2025-08-01'
+  link: https://doi.org/g9vvcr
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.06.15.659521
+  title: Real-Time Human Interaction with Virtual Swarms in Shared Physical Space
+  authors:
+  - David Mezey
+  - Palina Bartashevich
+  - Ghadi El Hasbani
+  - Pawel Romanczuk
+  - Heiko Hamann
+  - Dominik Deffner
+  - David James
+  publisher: openRxiv
+  date: '2025-06-19'
+  link: https://doi.org/hcmmrq
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevResearch.7.013300
+  title: Escape cascades as a behavioral contagion process with adaptive network dynamics
+  authors:
+  - Wenhan Wu
+  - Xiaoping Zheng
+  - Pawel Romanczuk
+  publisher: Physical Review Research
+  date: '2025-03-21'
+  link: https://doi.org/hcmmrr
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevResearch.7.013286
+  title: 'Collective decision-making with heterogeneous biases: Role of network topology
+    and susceptibility'
+  authors:
+  - Yunus Sevinchan
+  - Petro Sarkanych
+  - Abi Tenenbaum
+  - Yurij Holovatch
+  - Pawel Romanczuk
+  publisher: Physical Review Research
+  date: '2025-03-19'
+  link: https://doi.org/hcmmrs
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevLett.134.058201
+  title: Emergent Metric-Like States of Active Particles with Metric-Free Polar Alignment
+  authors:
+  - Yinong Zhao
+  - "Cristi\xE1n Huepe"
+  - Pawel Romanczuk
+  publisher: Physical Review Letters
+  date: '2025-02-03'
+  link: https://doi.org/hcmmrt
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-71533-4_14
+  title: "Bio-Inspired Agent-Based Model for\_Collective Shepherding"
+  authors:
+  - Yating Zheng
+  - Pawel Romanczuk
+  publisher: Lecture Notes in Computer Science
+  date: '2024-09-07'
+  link: https://doi.org/hcmmrv
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-71533-4_10
+  title: "Spatio-Temporal Dynamics of\_Social Contagion in\_Bio-inspired Interaction\
+    \ Networks"
+  authors:
+  - Yunus Sevinchan
+  - Carla Vollmoeller
+  - Korbinian Pacher
+  - David Bierbach
+  - Lenin Arias-Rodriguez
+  - Jens Krause
+  - Pawel Romanczuk
+  publisher: Lecture Notes in Computer Science
+  date: '2024-09-07'
+  link: https://doi.org/hcmmrw
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-031-71533-4_12
+  title: "Transient Milling Dynamics in\_Collective Motion with\_Visual Occlusions"
+  authors:
+  - Palina Bartashevich
+  - Lars Knopf
+  - Pawel Romanczuk
+  publisher: Lecture Notes in Computer Science
+  date: '2024-09-07'
+  link: https://doi.org/hcmmrx
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s42003-024-07267-2
+  title: Collective anti-predator escape manoeuvres through optimal attack and avoidance
+    strategies
+  authors:
+  - Palina Bartashevich
+  - James E. Herbert-Read
+  - Matthew J. Hansen
+  - "F\xE9licie Dhellemmes"
+  - Paolo Domenici
+  - Jens Krause
+  - Pawel Romanczuk
+  publisher: Communications Biology
+  date: '2024-11-27'
+  link: https://doi.org/g8wq36
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/1365-2435.14638
+  title: "Evidence for a by\u2010product mutualism in a group hunter depends on prey\
+    \ movement state"
+  authors:
+  - K. Pacher
+  - J. Krause
+  - P. Bartashevich
+  - P. Romanczuk
+  - P. Bideau
+  - D. Pham
+  - A. L. Burns
+  - D. Deffner
+  - F. Dhellemmes
+  - B. Binder
+  - K. M. Boswell
+  - "F. Galv\xE1n\u2010Maga\xF1a"
+  - P. Domenici
+  - M. J. Hansen
+  publisher: Functional Ecology
+  date: '2024-08-23'
+  link: https://doi.org/hcmmrz
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.5488/cmp.27.33801
+  title: 'Consensus decision making on a complete graph: complex behaviour from simple
+    assumptions'
+  authors:
+  - P. Sarkanych
+  - Yu. Sevinchan
+  - M. Krasnytska
+  - P. Romanczuk
+  - Yu. Holovatch
+  publisher: Condensed Matter Physics
+  date: '2024-09-24'
+  link: https://doi.org/hcmmr2
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsbl.2024.0177
+  title: Sailfish generate foraging opportunities for seabirds in multi-species predator
+    aggregations
+  authors:
+  - M. Licht
+  - A. L. Burns
+  - K. Pacher
+  - S. Krause
+  - P. Bartashevich
+  - P. Romanczuk
+  - M. J. Hansen
+  - A. Y. Then
+  - J. Krause
+  publisher: Biology Letters
+  date: '2024-07-01'
+  link: https://doi.org/hcmmr3
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2309733121
+  title: Selective social interactions and speed-induced leadership in schooling fish
+  authors:
+  - Andreu Puy
+  - Elisabet Gimeno
+  - Jordi Torrents
+  - Palina Bartashevich
+  - M. Carmen Miguel
+  - Romualdo Pastor-Satorras
+  - Pawel Romanczuk
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-04-25'
+  link: https://doi.org/hcmmr4
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.03.26.586812
+  title: Collective anti-predator escape manoeuvres through optimal attack and avoidance
+    strategies
+  authors:
+  - Palina Bartashevich
+  - James E. Herbert-Read
+  - Matthew J. Hansen
+  - "F\xE9licie Dhellemmes"
+  - Paolo Domenici
+  - Jens Krause
+  - Pawel Romanczuk
+  publisher: openRxiv
+  date: '2024-03-29'
+  link: https://doi.org/hcmmr5
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-024-47010-3
+  title: Collective incentives reduce over-exploitation of social information in unconstrained
+    human groups
+  authors:
+  - Dominik Deffner
+  - David Mezey
+  - Benjamin Kahl
+  - Alexander Schakowski
+  - Pawel Romanczuk
+  - Charley M. Wu
+  - Ralf H. J. M. Kurvers
+  publisher: Nature Communications
+  date: '2024-03-27'
+  link: https://doi.org/g9g52q
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.11.21.568073
+  title: Moderate confirmation bias enhances collective decision-making in reinforcement-learning
+    agents
+  authors:
+  - "Cl\xE9mence Bergerot"
+  - Wolfram Barfuss
+  - Pawel Romanczuk
+  publisher: openRxiv
+  date: '2023-11-22'
+  link: https://doi.org/hcmmr6
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1478-3975/acd6ce
+  title: 'Individual bias and fluctuations in collective decision making: from algorithms
+    to Hamiltonians'
+  authors:
+  - Petro Sarkanych
+  - Mariana Krasnytska
+  - "Luis G\xF3mez-Nava"
+  - Pawel Romanczuk
+  - Yurij Holovatch
+  publisher: Physical Biology
+  date: '2023-06-13'
+  link: https://doi.org/hcmmr7
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41567-022-01916-1
+  title: Fish shoals resemble a stochastic excitable system driven by environmental
+    perturbations
+  authors:
+  - "Luis G\xF3mez-Nava"
+  - Robert T. Lange
+  - Pascal P. Klamser
+  - Juliane Lukas
+  - Lenin Arias-Rodriguez
+  - David Bierbach
+  - Jens Krause
+  - Henning Sprekeler
+  - Pawel Romanczuk
+  publisher: Nature Physics
+  date: '2023-02-06'
+  link: https://doi.org/grq6bw
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rstb.2022.0069
+  title: Multispecies collective waving behaviour in fish
+  authors:
+  - Juliane Lukas
+  - Jens Krause
+  - "Arabella Sophie Tr\xE4ger"
+  - Jonas Marc Piotrowski
+  - Pawel Romanczuk
+  - Henning Sprekeler
+  - Lenin Arias-Rodriguez
+  - Stefan Krause
+  - Christopher Schutz
+  - David Bierbach
+  publisher: Philosophical Transactions of the Royal Society B
+  date: '2023-02-20'
+  link: https://doi.org/hcmmr8
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2206163120
+  title: "Growth produces coordination trade-offs in\n                    <i>Trichoplax\
+    \ adhaerens</i>\n                    , an animal lacking a central nervous system"
+  authors:
+  - Mircea R. Davidescu
+  - Pawel Romanczuk
+  - Thomas Gregor
+  - Iain D. Couzin
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2023-03-10'
+  link: https://doi.org/gr5r7s
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/9789811260438_0004
+  title: "Phase Transitions and Criticality in the Collective Behavior of Animals\
+    \ \u2014 Self-Organization and Biological Function"
+  authors:
+  - Pawel Romanczuk
+  - Bryan C. Daniels
+  publisher: Order, Disorder and Criticality
+  date: '2022-12-18'
+  link: https://doi.org/g6p8qn
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1748-3190/ac8e3e
+  title: "Live fish learn to anticipate the movement of a fish-like robot\n\t\t\t\t\
+    \t\t            <sup>*</sup>"
+  authors:
+  - David Bierbach
+  - "Luis G\xF3mez-Nava"
+  - Fritz A Francisco
+  - Juliane Lukas
+  - Lea Musiolek
+  - Verena V Hafner
+  - Tim Landgraf
+  - Pawel Romanczuk
+  - Jens Krause
+  publisher: Bioinspiration &amp; Biomimetics
+  date: '2022-10-18'
+  link: https://doi.org/gqxrrw
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1140/epjs/s11734-022-00470-4
+  title: Detecting contagious spreading of urban innovations on the global city network
+  authors:
+  - Niklas H. Kitzmann
+  - Pawel Romanczuk
+  - Nico Wunderling
+  - Jonathan F. Donges
+  publisher: The European Physical Journal Special Topics
+  date: '2022-02-21'
+  link: https://doi.org/gpr8f2
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.abm6385
+  title: Subcritical escape waves in schooling fish
+  authors:
+  - Winnie Poel
+  - Bryan C. Daniels
+  - Matthew M. G. Sosna
+  - Colin R. Twomey
+  - Simon P. Leblanc
+  - Iain D. Couzin
+  - Pawel Romanczuk
+  publisher: Science Advances
+  date: '2022-06-24'
+  link: https://doi.org/gsqw2r
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12064-020-00311-9
+  title: Searching for structure in collective systems
+  authors:
+  - Colin R. Twomey
+  - Andrew T. Hartnett
+  - Matthew M. G. Sosna
+  - Pawel Romanczuk
+  publisher: Theory in Biosciences
+  date: '2020-03-23'
+  link: https://doi.org/hcmmr9
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/PhysRevE.104.044605
+  title: Phases and homogeneous ordered states in alignment-based self-propelled particle
+    models
+  authors:
+  - Yinong Zhao
+  - Thomas Ihle
+  - Zhangang Han
+  - "Cristi\xE1n Huepe"
+  - Pawel Romanczuk
+  publisher: Physical Review E
+  date: '2021-10-12'
+  link: https://doi.org/grnbdg
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s42005-021-00708-y
+  title: Topological flocking models in spatially heterogeneous environments
+  authors:
+  - Parisa Rahmani
+  - Fernando Peruani
+  - Pawel Romanczuk
+  publisher: Communications Physics
+  date: '2021-09-14'
+  link: https://doi.org/g82trr
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1008832
+  title: 'Collective predator evasion: Putting the criticality hypothesis to the test'
+  authors:
+  - Pascal P. Klamser
+  - Pawel Romanczuk
+  publisher: PLOS Computational Biology
+  date: '2021-03-15'
+  link: https://doi.org/hcmmsb
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsbl.2020.0436
+  title: Group-level patterns emerge from individual speed as revealed by an extremely
+    social robotic fish
+  authors:
+  - Jolle W. Jolles
+  - Nils Weimar
+  - Tim Landgraf
+  - Pawel Romanczuk
+  - Jens Krause
+  - David Bierbach
+  publisher: Biology Letters
+  date: '2020-09-16'
+  link: https://doi.org/gsqw2v
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.06.10.143883
+  title: Group-level patterns emerge from individual speed as revealed by an extremely
+    social robotic fish
+  authors:
+  - Jolle W. Jolles
+  - Nils Weimar
+  - Tim Landgraf
+  - Pawel Romanczuk
+  - Jens Krause
+  - David Bierbach
+  publisher: openRxiv
+  date: '2020-06-12'
+  link: https://doi.org/hcmmsc
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007697
+  title: "Flocking in complex environments\u2014Attention trade-offs in collective\
+    \ information processing"
+  authors:
+  - Parisa Rahmani
+  - Fernando Peruani
+  - Pawel Romanczuk
+  publisher: PLOS Computational Biology
+  date: '2020-04-06'
+  link: https://doi.org/ggsfc4
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/sciadv.aay0792
+  title: A model of collective behavior based purely on vision
+  authors:
+  - Renaud Bastien
+  - Pawel Romanczuk
+  publisher: Science Advances
+  date: '2020-02-07'
+  link: https://doi.org/gst72z
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/809442
+  title: 'Evolutionary impact of size-selective harvesting on shoaling behavior: Individual-level
+    mechanisms and possible consequences for natural and fishing mortality'
+  authors:
+  - Valerio Sbragaglia
+  - Pascal P. Klamser
+  - Pawel Romanczuk
+  - Robert Arlinghaus
+  publisher: openRxiv
+  date: '2019-10-17'
+  link: https://doi.org/gk2q8g
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1905585116
+  title: Individual and collective encoding of risk in animal groups
+  authors:
+  - Matthew M. G. Sosna
+  - Colin R. Twomey
+  - Joseph Bak-Coleman
+  - Winnie Poel
+  - Bryan C. Daniels
+  - Pawel Romanczuk
+  - Iain D. Couzin
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2019-09-23'
+  link: https://doi.org/ghzwxz
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/589663
+  title: A model of collective behavior based purely on vision
+  authors:
+  - Renaud Bastien
+  - Pawel Romanczuk
+  publisher: openRxiv
+  date: '2019-03-28'
+  link: https://doi.org/gkvz8n
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/362681
+  title: Searching for structure in collective systems
+  authors:
+  - Colin R. Twomey
+  - Andrew T. Hartnett
+  - Matthew M. Grobis
+  - Pawel Romanczuk
+  publisher: openRxiv
+  date: '2018-07-05'
+  link: https://doi.org/gkvvmq
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/320911
+  title: Guppies prefer to follow large (robot) leaders irrespective of own size
+  authors:
+  - David Bierbach
+  - "Hauke J. M\xF6nck"
+  - Juliane Lukas
+  - Marie Habedank
+  - Pawel Romanczuk
+  - Tim Landgraf
+  - Jens Krause
+  publisher: openRxiv
+  date: '2018-05-13'
+  link: https://doi.org/gkwh37
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/ele.12949
+  title: "How ecology shapes exploitation: a framework to predict the behavioural\
+    \ response of human and animal foragers along exploration\u2013exploitation trade\u2010\
+    offs"
+  authors:
+  - Christopher T. Monk
+  - Matthieu Barbier
+  - Pawel Romanczuk
+  - James R. Watson
+  - "Josep Al\xF3s"
+  - Shinnosuke Nakayama
+  - Daniel I. Rubenstein
+  - Simon A. Levin
+  - Robert Arlinghaus
+  publisher: Ecology Letters
+  date: '2018-04-02'
+  link: https://doi.org/gc7qwz
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/304501
+  title: Using a robotic fish to investigate individual differences in social responsiveness
+    in the guppy
+  authors:
+  - David Bierbach
+  - Tim Landgraf
+  - Pawel Romanczuk
+  - Juliane Lukas
+  - Hai Nguyen
+  - Max Wolf
+  - Jens Krause
+  publisher: openRxiv
+  date: '2018-04-19'
+  link: https://doi.org/gkwkrv
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/frobt.2018.00003
+  title: Insights into the Social Behavior of Surface and Cave-Dwelling Fish (Poecilia
+    mexicana) in Light and Darkness through the Use of a Biomimetic Robot
+  authors:
+  - David Bierbach
+  - Juliane Lukas
+  - Anja Bergmann
+  - Kristiane Elsner
+  - "Leander H\xF6hne"
+  - Christiane Weber
+  - Nils Weimar
+  - Lenin Arias-Rodriguez
+  - "Hauke J. M\xF6nck"
+  - Hai Nguyen
+  - Pawel Romanczuk
+  - Tim Landgraf
+  - Jens Krause
+  publisher: Frontiers in Robotics and AI
+  date: '2018-02-05'
+  link: https://doi.org/gg6smj
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.2016.1671
+  title: 'Proto-cooperation: group hunting sailfish improve hunting success by alternating
+    attacks on grouping prey'
+  authors:
+  - James E. Herbert-Read
+  - Pawel Romanczuk
+  - Stefan Krause
+  - "Daniel Str\xF6mbom"
+  - Pierre Couillaud
+  - Paolo Domenici
+  - Ralf H. J. M. Kurvers
+  - Stefano Marras
+  - John F. Steffensen
+  - Alexander D. M. Wilson
+  - Jens Krause
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2016-11-16'
+  link: https://doi.org/bsnf
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12915-016-0294-x
+  title: Steering cell migration by alternating blebs and actin-rich protrusions
+  authors:
+  - "Alba Diz-Mu\xF1oz"
+  - Pawel Romanczuk
+  - Weimiao Yu
+  - Martin Bergert
+  - Kenzo Ivanovitch
+  - Guillaume Salbreux
+  - Carl-Philipp Heisenberg
+  - Ewa K. Paluch
+  publisher: BMC Biology
+  date: '2016-09-02'
+  link: https://doi.org/grmvfq
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1367-2630/18/6/063015
+  title: Emergent smectic order in simple active particle models
+  authors:
+  - Pawel Romanczuk
+  - "Hugues Chat\xE9"
+  - Leiming Chen
+  - Sandrine Ngo
+  - John Toner
+  publisher: New Journal of Physics
+  date: '2016-06-09'
+  link: https://doi.org/gg855z
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1748-3190/11/1/015001
+  title: 'RoboFish: increased acceptance of interactive robotic fish with realistic
+    eyes and natural motion patterns by live Trinidadian guppies'
+  authors:
+  - Tim Landgraf
+  - David Bierbach
+  - Hai Nguyen
+  - Nadine Muggelberg
+  - Pawel Romanczuk
+  - Jens Krause
+  publisher: Bioinspiration &amp; Biomimetics
+  date: '2016-01-12'
+  link: https://doi.org/hcmmsd
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.2016.2586
+  title: "Correction to \u2018Proto-cooperation: group hunting sailfish improve hunting\
+    \ success by alternating attacks on grouping prey\u2019"
+  authors:
+  - James E. Herbert-Read
+  - Pawel Romanczuk
+  - Stefan Krause
+  - "Daniel Str\xF6mbom"
+  - Pierre Couillaud
+  - Paolo Domenici
+  - Ralf H. J. M. Kurvers
+  - Stefano Marras
+  - John F. Steffensen
+  - Alexander D. M. Wilson
+  - Jens Krause
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2016-12-28'
+  link: https://doi.org/hcmmsf
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/physreve.91.042720
+  title: Optimal chemotaxis in intermittent migration of animal cells
+  authors:
+  - P. Romanczuk
+  - G. Salbreux
+  publisher: Physical Review E
+  date: '2015-04-30'
+  link: https://doi.org/grmvfj
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/physreve.89.022711
+  title: Active Brownian agents with concentration-dependent chemotactic sensitivity
+  authors:
+  - Marcel Meyer
+  - Lutz Schimansky-Geier
+  - Pawel Romanczuk
+  publisher: Physical Review E
+  date: '2014-02-13'
+  link: https://doi.org/gs5rwp
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/physrevlett.113.258104
+  title: Vortex Arrays and Mesoscale Turbulence of Self-Propelled Particles
+  authors:
+  - "Robert Gro\xDFmann"
+  - Pawel Romanczuk
+  - "Markus B\xE4r"
+  - Lutz Schimansky-Geier
+  publisher: Physical Review Letters
+  date: '2014-12-19'
+  link: https://doi.org/f6z5vj
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1367-2630/15/8/085014
+  title: "Self-propelled particles with selective attraction\u2013repulsion interaction:\
+    \ from microscopic dynamics to coarse-grained theories"
+  authors:
+  - "R Gro\xDFmann"
+  - L Schimansky-Geier
+  - P Romanczuk
+  publisher: New Journal of Physics
+  date: '2013-08-20'
+  link: https://doi.org/gkphr4
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rsfs.2012.0030
+  title: Swarming and pattern formation due to selective attraction and repulsion
+  authors:
+  - Pawel Romanczuk
+  - Lutz Schimansky-Geier
+  publisher: Interface Focus
+  date: '2012-09-26'
+  link: https://doi.org/gp8v97
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/j.1461-0248.2012.01840.x
+  title: Cannibalism can drive the evolution of behavioural phase polyphenism in locusts
+  authors:
+  - Vishwesha Guttal
+  - Pawel Romanczuk
+  - Stephen J. Simpson
+  - Gregory A. Sword
+  - Iain D. Couzin
+  publisher: Ecology Letters
+  date: '2012-08-08'
+  link: https://doi.org/f398ww
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1088/1367-2630/14/7/073033
+  title: Active Brownian particles with velocity-alignment and active fluctuations
+  authors:
+  - "R Gro\xDFmann"
+  - L Schimansky-Geier
+  - P Romanczuk
+  publisher: New Journal of Physics
+  date: '2012-07-13'
+  link: https://doi.org/gkphmf
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ecocom.2011.07.008
+  title: Mean-field theory of collective motion due to velocity alignment
+  authors:
+  - Pawel Romanczuk
+  - Lutz Schimansky-Geier
+  publisher: Ecological Complexity
+  date: '2012-06-01'
+  link: https://doi.org/bv2fz8
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1098/rspb.2012.1017
+  title: 'Nutritional state and collective motion: from individuals to mass migration'
+  authors:
+  - Sepideh Bazazi
+  - Pawel Romanczuk
+  - Sian Thomas
+  - Lutz Schimansky-Geier
+  - Joseph J. Hale
+  - Gabriel A. Miller
+  - Gregory A. Sword
+  - Stephen J. Simpson
+  - Iain D. Couzin
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2012-05-30'
+  link: https://doi.org/hcmmsg
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1142/s0219493711003395
+  title: SYNCHRONIZATION AND TRANSPORT IN AN OSCILLATING PERIODIC POTENTIAL
+  authors:
+  - "FELIX M\xDCLLER"
+  - PAWEL ROMANCZUK
+  - LUTZ SCHIMANSKY-GEIER
+  publisher: Stochastics and Dynamics
+  date: '2011-09-01'
+  link: https://doi.org/b55p6w
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/physrevlett.106.230601
+  title: Brownian Motion with Active Fluctuations
+  authors:
+  - Pawel Romanczuk
+  - Lutz Schimansky-Geier
+  publisher: Physical Review Letters
+  date: '2011-06-08'
+  link: https://doi.org/b8jcvz
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1063/1.3669493
+  title: Active particles with broken symmetry
+  authors:
+  - Pawel Romanczuk
+  - Werner Ebeling
+  - Udo Erdmann
+  - Lutz Schimansky-Geier
+  publisher: 'Chaos: An Interdisciplinary Journal of Nonlinear Science'
+  date: '2011-12-01'
+  link: https://doi.org/fx6tdp
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/physreve.81.061120
+  title: Quasideterministic transport of Brownian particles in an oscillating periodic
+    potential
+  authors:
+  - Pawel Romanczuk
+  - "Felix M\xFCller"
+  - Lutz Schimansky-Geier
+  publisher: Physical Review E
+  date: '2010-06-14'
+  link: https://doi.org/bsft3c
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1103/physrevlett.102.010602
+  title: Collective Motion due to Individual Escape and Pursuit Response
+  authors:
+  - Pawel Romanczuk
+  - Iain D. Couzin
+  - Lutz Schimansky-Geier
+  publisher: Physical Review Letters
+  date: '2009-01-08'
+  link: https://doi.org/fpsnp9
+  orcid: 0000-0002-4733-998X
+  plugin: orcid.py
+  file: orcid.yaml
