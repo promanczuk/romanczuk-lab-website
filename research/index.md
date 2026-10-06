@@ -22,12 +22,13 @@ Our main research activity focuses on the following interconnected research ques
 3. How does collective behaviour emerge from sensory inputs? Here, we focus on question on how individuals integrate visual social information and use it to coordinate their actions.
 4. How do animal groups perform collective decisions under sensory constraints? Here, the central question is how animal groups are able to perform near-optimal and robust collective decisions despite sensory constraints and highly variable environments.
 
-# {% include section.html %}
+<!-- {% include section.html %}
 
-# ## Ongoing/Recent projects
+## Ongoing/Recent projects
 
-# {% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
 
-# {% include section.html %}
+{% include section.html %}
 
+-->
 
