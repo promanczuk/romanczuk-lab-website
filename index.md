@@ -7,6 +7,9 @@ Welcome to the pages of the research group â€œCollective Information Processingâ
 
 {% include section.html %}
 
+### This website is currently under construction ####
+
+<!--
 ## Highlights
 
 {% capture text %}
@@ -79,3 +82,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Team"
   text=text
 %}
+
+-->
