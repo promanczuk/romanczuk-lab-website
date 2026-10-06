@@ -1,20 +1,16 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Pawel Romanczuk
+image: images/romanczuk.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: Humboldt Universität zu Berlin
 aliases:
-  - J. Smith
-  - J Smith
+  - P. Romanczuk
+  - P Romanczuk
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.hu-berlin.de/en/people-detail-page/prof-dr-pawel-romanczuk
+  orcid: 0000-0002-4733-998X
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Pawel has a background in theoretical physicist and is interested in application of statistical physics and stochastic processes to biological and ecological problems. He has worked on mathematical models of collective motion in biology, as well as related problems of pattern formation and self-propelled motion. Among other things he is currently interested in the question how collective behavior is shaped and constrained by locally available sensory information, how to determine causal information flows between individuals in animal groups, and how do animal and human groups process information  in a collective way.
+
+
