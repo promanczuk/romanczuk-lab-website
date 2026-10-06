@@ -7,71 +7,41 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Dr. Pawel Romanczuk
+
+Institute of Theoretical Biology, Department of Biology, Humboldt Universität zu Berlin,
+associated with Bernstein Center for Computational Neuroscience Berlin
+
+Postal address: ITB, Humboldt Universität zu Berlin, Philippstr. 13, Haus 4,  10115 Berlin, Germany
+
+Office location: Room 110, Haus 20 (1st floor, across the lawn from the coffee container, see map below), Campus Nord, HU Berlin
+
+The building can be only entered with a key card, but there is a possibility to ring our offices using a dial pad using last digits of the phone number (e.g. 82496 see below).
+
+If you navigate to us using GoogleMaps or something similar, I would recommend to navigate either to one of the entrances to the campus (Philippstr 13 / Luisenstr 56 / Claire-Waldorf-Str. 7) or directly to “Kaffee Container, Philippstraße, Berlin” (see map below).
+
+Email: pawel.romanczuk ( at ) hu-berlin.de
+Tel: +49 30 2093 82496
+
+Main lab space (students/staff): Tel: +49 30 2093 82497
 
 {%
   include button.html
-  type="email"
-  text="jane@smith.com"
-  link="jane@smith.com"
-%}
-{%
-  include button.html
   type="phone"
-  text="(555) 867-5309"
-  link="+1-555-867-5309"
+  text="+49-30-2093-82496"
+  link="+49-30-2093-82496"
 %}
 {%
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="https://maps.app.goo.gl/yrmK1yEN3QRsEZoV7"
 %}
 
 {% include section.html %}
 
-{% capture col1 %}
-
 {%
   include figure.html
-  image="images/photo.jpg"
+  image="images/Location-Haus-20.jpg"
   caption="Lorem ipsum"
 %}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
