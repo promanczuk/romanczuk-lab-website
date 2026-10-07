@@ -1,13 +1,11 @@
 ---
 name:   Adrian Engel Rodriguez
-image:  images/people/AER.jpg   
+image:  images/people/AER.jpg  
 role:   MSc student # possible roles: postdoc, phd, student
 group:  member      # possible values: member, alumn    
 links:              # remove link categories that you do not want to include / you dot have
   email: adrian.engel.rodriguez ( at ) student (dot) hu-berlin (dot) de # The template uses a simple mailto link, I suggest to use text subtitution as shown to stop basic bot from scraping the email address
-  home-page: https://libelldrian.github.io/
-  orcid: 
-  bluesky: 
+  home-page: https://libelldrian.github.io/ 
   github: libelldrian
   linkedin: https://www.linkedin.com/in/adriengelrodri
 ---
