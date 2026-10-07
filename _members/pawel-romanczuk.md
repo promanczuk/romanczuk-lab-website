@@ -1,6 +1,6 @@
 ---
 name: Pawel Romanczuk
-image: images/romanczuk.jpg
+image: images/people/Pawel-Romanczuk-Copyright-SCIoI-scaled.jpg
 role: principal-investigator
 affiliation: Humboldt Universität zu Berlin
 aliases:
