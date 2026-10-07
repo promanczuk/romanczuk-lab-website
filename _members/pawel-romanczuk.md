@@ -6,6 +6,7 @@ affiliation: Humboldt Universität zu Berlin
 aliases:
   - P. Romanczuk
   - P Romanczuk
+  - Pawel Romanczuk
 links:
   home-page: https://www.hu-berlin.de/en/people-detail-page/prof-dr-pawel-romanczuk
   orcid: 0000-0002-4733-998X
