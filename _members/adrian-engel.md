@@ -7,7 +7,7 @@ links:              # remove link categories that you do not want to include / y
   email: adrian.engel.rodriguez ( at ) student (dot) hu-berlin (dot) de # The template uses a simple mailto link, I suggest to use text subtitution as shown to stop basic bot from scraping the email address
   home-page: https://libelldrian.github.io/ 
   github: libelldrian
-  linkedin: https://www.linkedin.com/in/adriengelrodri
+  linkedin: adriengelrodri
 ---
 
 Adrian studied biophysics at Humboldt University of Berlin and the Autonomous University of Madrid and is currently pursuing his master's thesis project in our group.
