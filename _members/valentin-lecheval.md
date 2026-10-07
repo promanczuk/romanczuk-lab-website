@@ -1,6 +1,6 @@
 ---
 name:   Valentin Lecheval
-image:  images/members/vlecheval.jpg   
+image:  images/people/vlecheval.jpg   
 role:   postdoc         # possible roles: postdoc, phd, student
 group:  member      # possible values: member, alumn    
 links:              # remove link categories that you do not want to include / you dot have
