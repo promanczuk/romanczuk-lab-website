@@ -7,16 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-### This page is under construction - Coming soon ###
-{% include figure.html image="images/group_picture_feb23.jpg" caption="Group picture from 2023" %}
+## This page is being updated ##
 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 
+<div style="clear: both; height: 2rem;"></div>
+
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
+{% include section.html %}
 
+{% include figure.html image="images/group_picture_feb23.jpg" caption="Group picture from 2023" %}
 <!-- 
 
 {% include section.html background="images/background.jpg" dark=true %}
